@@ -9,7 +9,7 @@ I am a Full Stack Web Developer with a strong background in Civil Engineering as
 ## Built With
 
 My personal portfolio <a href="http://kush-portfolio-xi.vercel.app/" .which features some of my github projects as well as my resume and technical skills.
-GITHUB ACCOUNT - https://github.com/kushkumarkashyap/Kush-Portfolio
+GITHUB ACCOUNT - https://github.com/kushkumarkashyap/Kush-Kumar-portfolio
 
 ## This project was built using these technologies.
 
